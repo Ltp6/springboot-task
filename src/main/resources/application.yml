@@ -1,0 +1,11 @@
+spring:
+  mail:
+    username: li_tian_peng@qq.com
+    password: yrofitnvuujfbiga
+    host: smtp.qq.com
+    #¿ªÆôssl
+    properties:
+      mail:
+        smtp:
+          ssl:
+            enable: true
